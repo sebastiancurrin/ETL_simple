@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,location,capacity_units,current_occupancy,manager_name
+1,Depósito 1,Buenos Aires,57063,93,Sofía Ramírez
+2,Depósito 2,Córdoba,83994,83,Diego Fernández
+3,Depósito 3,Rosario,71915,58,Martín González
+4,Depósito 4,Mendoza,62776,85,Roberto Sánchez
+5,Depósito 5,San Miguel de Tucumán,78035,56,Sofía Ramírez

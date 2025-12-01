@@ -1,0 +1,9 @@
+supplier_id,supplier_name,contact_name,email,phone,address,rating,is_active
+1,Distribuidora Norte,María García,contacto@distribuidoranorte.com,+54 11 4313-8560,"Calle 6568, Buenos Aires",4.1,true
+2,Importadora Sur,Juan Pérez,contacto@importadorasur.com,+54 11 8050-7046,"Calle 1123, Buenos Aires",4,true
+3,Mayorista Central,Juan Pérez,contacto@mayoristacentral.com,+54 11 9415-4502,"Calle 467, Buenos Aires",5,true
+4,Logística Express,Ana Martínez,contacto@logísticaexpress.com,+54 11 7374-1810,"Calle 4268, Buenos Aires",4.2,true
+5,Proveedores Unidos,Ana Martínez,contacto@proveedoresunidos.com,+54 11 5950-7817,"Calle 3997, Buenos Aires",3.1,true
+6,Global Supply,Carlos López,contacto@globalsupply.com,+54 11 5171-4550,"Calle 9147, Buenos Aires",3.1,true
+7,FastImport,Juan Pérez,contacto@fastimport.com,+54 11 8371-8640,"Calle 9550, Buenos Aires",3.4,true
+8,QualitySource,Ana Martínez,contacto@qualitysource.com,+54 11 9735-7051,"Calle 3596, Buenos Aires",3.1,true
